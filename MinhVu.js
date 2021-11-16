@@ -2,11 +2,11 @@
 const CONFIG = {
     introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
     introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
-    btnIntro: 'OK',
+    btnIntro: 'OK babe",
     title: 'Anh biết Em thích Anh phải không phải không ? 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
     btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
+    btnNo: '� Anh Bị Ngáo À � ',
     question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
@@ -14,5 +14,4 @@ const CONFIG = {
     mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
-}
+    messLink: 'https://facebook.com/minhvu.user
