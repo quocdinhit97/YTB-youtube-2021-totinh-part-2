@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Anh biết Em thích Anh phải không phải không ? 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
     btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
+    btnNo: '💔 Cậu mơ à, ko nhận đâu ! 💔 ',
     question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
